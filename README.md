@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Atahar.
+- 👀 I’m interested in physics, maths and computer programing where languges like python, java, css, etc are involved.
+- 🌱 I’m currently learning python and java.
+- ⚡ Fun fact: The most trust worthy person to tell a secret is the one nobody trusts on.
